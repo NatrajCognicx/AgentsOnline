@@ -1,0 +1,5 @@
+﻿
+Partial Class AgentLogin
+    Inherits System.Web.UI.Page
+
+End Class
